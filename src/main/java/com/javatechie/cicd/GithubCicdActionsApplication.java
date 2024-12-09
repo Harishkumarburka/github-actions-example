@@ -15,6 +15,8 @@ public class GithubCicdActionsApplication {
 	}
 
 //	echo "# github-actions-example" >> README.md
+// 
+// new one added for demo
 //	git init
 //	git add README.md
 //	git commit -m "first commit"
